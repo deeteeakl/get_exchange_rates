@@ -23,6 +23,11 @@ except KeyError:
     #logger.info("Token not available!")
     #raise
 
+try:
+    END_POINT = os.environ["END_POINT"]
+except KeyError:
+    logger.info("Endpoint not defined")
+
 
 if __name__ == "__main__":
     #logger.info(f"Token value: {SOME_SECRET}")
@@ -32,3 +37,6 @@ if __name__ == "__main__":
         data = r.json()
         temperature = data["forecast"]["temp"]
         logger.info(f'Weather in Oxford: {temperature}')
+
+        my_json = {"message": temperature}
+        r = requests.post('https://wytham.tk/api/webhook/' + END_POINT, json=my_json)
