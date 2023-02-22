@@ -27,6 +27,7 @@ try:
     END_POINT = os.environ["END_POINT"]
 except KeyError:
     logger.info("Endpoint not defined")
+    raise
 
 
 if __name__ == "__main__":
@@ -39,4 +40,4 @@ if __name__ == "__main__":
         logger.info(f'Weather in Oxford: {temperature}')
 
         my_json = {"message": temperature}
-        r = requests.post('https://wytham.tk/api/webhook/' + END_POINT, json=my_json)
+        r = requests.post(END_POINT, json=my_json)
