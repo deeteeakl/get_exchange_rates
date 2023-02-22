@@ -25,9 +25,10 @@ except KeyError:
 
 try:
     END_POINT = os.environ["END_POINT"]
+    logger.info(f"end point : {END_POINT}")
 except KeyError:
     logger.info("Endpoint not defined")
-    raise
+    #raise
 
 
 if __name__ == "__main__":
