@@ -1,1 +1,9 @@
 
+2023-02-21 20:54:14,333 - __main__ - INFO - Token value: dt1234
+2023-02-21 20:54:14,788 - __main__ - INFO - Weather in Oxford: 6.52
+2023-02-22 08:14:46,594 - __main__ - INFO - Token value: dt1234
+2023-02-22 08:14:46,808 - __main__ - INFO - Weather in Oxford: 5.95
+2023-02-22 12:21:58,908 - __main__ - INFO - Token value: dt1234
+2023-02-22 12:21:59,752 - __main__ - INFO - Weather in Oxford: 8.21
+2023-02-22 16:15:07,650 - __main__ - INFO - Token value: dt1234
+2023-02-22 16:15:08,179 - __main__ - INFO - Weather in Oxford: 8.89
