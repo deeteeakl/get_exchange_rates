@@ -9,3 +9,5 @@
 2023-02-22 16:15:08,179 - __main__ - INFO - Weather in Oxford: 8.89
 2023-02-22 20:51:23,521 - __main__ - INFO - end point : https://wytham.tk/api/webhook/webhook-test-ETDK-wfnUPlUbcVf2rM28yvz
 2023-02-22 20:51:24,232 - __main__ - INFO - Weather in Oxford: 4.23
+2023-02-24 20:31:10,245 - __main__ - INFO - Endpoint not defined
+2023-02-24 20:31:10,443 - __main__ - INFO - Weather in Oxford: 5.07
