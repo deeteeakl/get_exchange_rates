@@ -571,3 +571,5 @@
 2023-12-01 10:16:35,189 - __main__ - INFO - Weather in Oxford: -0.19
 2023-12-02 10:14:13,195 - __main__ - INFO - Endpoint not defined
 2023-12-02 10:14:13,557 - __main__ - INFO - Weather in Oxford: -2.92
+2023-12-03 10:14:52,726 - __main__ - INFO - Endpoint not defined
+2023-12-03 10:14:53,270 - __main__ - INFO - Weather in Oxford: 4.33
