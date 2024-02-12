@@ -41,4 +41,4 @@ if __name__ == "__main__":
         logger.info(f'Weather in Oxford: {temperature}')
 
         my_json = {"message": temperature}
-        r = requests.post("https://wytham.tk/api/webhook/webhook-test-ETDK-wfnUPlUbcVf2rM28yvz", json=my_json)
+        r = requests.post("https://wy-tham.co.uk/api/webhook/webhook-test-ETDK-wfnUPlUbcVf2rM28yvz", json=my_json)
