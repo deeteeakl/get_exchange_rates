@@ -801,3 +801,5 @@
 2024-03-31 10:14:58,723 - __main__ - INFO - Weather in Oxford: 10.09
 2024-04-01 10:16:38,387 - __main__ - INFO - Endpoint not defined
 2024-04-01 10:16:38,845 - __main__ - INFO - Weather in Oxford: 11.27
+2024-04-02 10:16:45,696 - __main__ - INFO - Endpoint not defined
+2024-04-02 10:16:46,055 - __main__ - INFO - Weather in Oxford: 11.75
