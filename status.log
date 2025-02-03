@@ -1403,3 +1403,5 @@
 2025-02-01 10:17:42,510 - __main__ - INFO - Weather in Oxford: 4.8
 2025-02-02 10:17:03,408 - __main__ - INFO - Endpoint not defined
 2025-02-02 10:17:03,571 - __main__ - INFO - Weather in Oxford: 3.79
+2025-02-03 10:19:26,749 - __main__ - INFO - Endpoint not defined
+2025-02-03 10:19:27,234 - __main__ - INFO - Weather in Oxford: 6.33
