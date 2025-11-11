@@ -1965,3 +1965,5 @@
 2025-11-09 10:19:49,345 - __main__ - INFO - Weather in Oxford: 9.22
 2025-11-10 10:25:46,435 - __main__ - INFO - Endpoint not defined
 2025-11-10 10:25:47,125 - __main__ - INFO - Weather in Oxford: 12.22
+2025-11-11 10:25:15,117 - __main__ - INFO - Endpoint not defined
+2025-11-11 10:25:15,647 - __main__ - INFO - Weather in Oxford: 12.75
